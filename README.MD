@@ -2,6 +2,7 @@
 1. git clone https://github.com/straifer2008/chat.git
 2. npm install
 3. cd chat
+4. npm run server
 # open in your browser http://localhost:9999
 
 
