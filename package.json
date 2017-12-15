@@ -4,7 +4,7 @@
   "description": "nodejs chat",
   "main": "index.js",
   "scripts": {
-    "server": "node run server/server.js"
+    "server": "node server/server.js"
   },
   "keywords": [
     "mongo",
